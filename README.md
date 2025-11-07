@@ -4,25 +4,29 @@
 -----
 
 
-## Introduction to Linux (LFS101)
+## [The Bits and Bytes of Computer Networking](./The%20Bits%20and%20Bytes%20of%20Computer%20Networking/The%20Bits%20and%20Bytes%20of%20Computer%20Networking.pdf)
+> **Google via Coursera**
 
-**The Linux Foundation** |
+## [Introduction to Linux (LFS101)](./Introduction%20to%20Linux%20(LFS101)/Introduction%20to%20Linux%20(LFS101).pdf)
+> **The Linux Foundation** 
 
-## The Bits and Bytes of Computer Networking
+## [Introduction to Git and GitHub](./Introduction%20to%20Git%20and%20GitHub/Introduction%20to%20Git%20and%20GitHub.pdf)
+> **GitHub via Coursera**  
 
-**Google via Coursera** | 
+## [Introduction to Cloud Computing](./Introduction%20to%20Cloud%20Computing/Introduction%20to%20Cloud%20Computing.pdf)
+> **IBM via Coursera** 
 
-## Introduction to Cloud Computing
+## [AWS Cloud Technical Essentials](./AWS%20Cloud%20Technical%20Essentials/AWS%20Cloud%20Technical%20Essentials.pdf)
+> **AWS via Coursera**  
 
-**IBM via Coursera** | 
 
 -----
 
 
-## 📊 Repository Stats
+## Repository Stats
 
-![Total Certificates](https://img.shields.io/badge/Total%20Certificates-2-brightgreen?style=for-the-badge&logo=bookmeter)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-October%202025-blue?style=for-the-badge&logo=github)
+![Total Certificates](https://img.shields.io/badge/Total%20Certificates-5-brightgreen?style=for-the-badge&logo=bookmeter)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-blue?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 </div>
@@ -38,7 +42,7 @@
 
 -----
 
-**Keep Learning, Keep Growing!** 🌱
+**Keep Learning, Keep Growing!** 
 
 
 </div>
