@@ -17,7 +17,10 @@
 > **IBM via Coursera** 
 
 ## [AWS Cloud Technical Essentials](./AWS%20Cloud%20Technical%20Essentials/AWS%20Cloud%20Technical%20Essentials.pdf)
-> **AWS via Coursera**  
+> **AWS via Coursera**
+
+## [Essentials with Azure Fundamentals](./Essentials%20with%20Azure%20Fundamentals/Essentials%20with%20Azure%20Fundamentals.pdf)
+> **Microsoft via Coursera**
 
 
 -----
@@ -25,7 +28,7 @@
 
 ## Repository Stats
 
-![Total Certificates](https://img.shields.io/badge/Total%20Certificates-5-brightgreen?style=for-the-badge&logo=bookmeter)
+![Total Certificates](https://img.shields.io/badge/Total%20Certificates-6-brightgreen?style=for-the-badge&logo=bookmeter)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-blue?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
