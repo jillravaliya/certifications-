@@ -22,6 +22,20 @@
 ## [Essentials with Azure Fundamentals](./Essentials%20with%20Azure%20Fundamentals/Essentials%20with%20Azure%20Fundamentals.pdf)
 > **Microsoft via Coursera**
 
+## [AWS Fundamentals Specialization](https://github.com/jillravaliya/certifications-/blob/main/AWS%20Fundamentals%20Specialization/AWS%20Fundamentals%20Specialization.pdf)
+> **AWS via Coursera**
+
+## [AWS Cloud Solutions Architect](https://github.com/jillravaliya/certifications-/blob/main/AWS%20Cloud%20Solutions%20Architect/AWS%20Cloud%20Solutions%20Architect.pdf)
+> **AWS via Coursera**
+
+## [Microsoft Azure Fundamentals AZ-900 Exam Prep](https://github.com/jillravaliya/certifications-/blob/main/Microsoft%20Azure%20Fundamentals%20AZ-900%20Exam%20Prep/Microsoft%20Azure%20Fundamentals%20AZ-900%20Exam%20Prep.pdf)
+> **Microsoft via Coursera**
+
+## [Cloud-Native Development with OpenShift and Kubernetes](https://github.com/jillravaliya/certifications-/blob/main/Cloud-Native%20Development%20with%20OpenShift%20and%20Kubernetes/RadHat%20Proffestional%20Certificate.pdf)
+> **RedHat via Coursera**
+
+## [Google IT Automation with Python](https://github.com/jillravaliya/certifications-/blob/main/Google%20IT%20Automation%20with%20Python/Google%20IT%20Automation%20with%20Python.pdf)
+> **Google via Coursera**
 
 -----
 
